@@ -31,4 +31,4 @@ Make sure you have the following installed on your machine:
 ### Steps to Install:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/telephony-webphone.git
+   git clone https://github.com/next2call/telephony
