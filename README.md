@@ -17,9 +17,10 @@ The webphone is designed to be lightweight and customizable, ideal for businesse
 
 
 ### Steps to Install:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/next2call/telephony
+1. Steps to install : Follow the guidelines in the document.
+
+**Installation Guide for Telephony**
+direct download link: https://github.com/next2call/telephony/blob/main/Installation%20Guide%20for%20Telephony%20Dialer.docx
 
 ![image](https://github.com/user-attachments/assets/8188a653-4ca6-4c70-b5d6-da09363f7a05)
 ![image](https://github.com/user-attachments/assets/0b8abca8-e28a-4cdb-8100-499af32f1753)
