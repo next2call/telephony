@@ -14,19 +14,7 @@ The webphone is designed to be lightweight and customizable, ideal for businesse
 - **Multiple Platform Support**: Compatible with both desktop and mobile browsers.
 - **Secure Communication**: Encrypted calls and messages.
   
-## Demo
 
-You can try out the demo of this WebPhone at [demo link here].
-
----
-
-## Installation
-
-### Prerequisites
-Make sure you have the following installed on your machine:
-- **Node.js** (version 12 or later)
-- **npm** (node package manager)
-- **WebRTC support** (most modern browsers support WebRTC)
 
 ### Steps to Install:
 1. Clone the repository:
