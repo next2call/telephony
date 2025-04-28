@@ -1,7 +1,7 @@
 # telephony
-cloud telephony panel
+Cloud Telephony Application UCAAS
 
-Welcome to the **Telephony WebPhone** repository! This is an open-source web-based telephony solution that allows you to make **voice calls**, **send SMS**, and integrate with various **telephony systems** through a simple web interface.
+Welcome to the **Cloud Telephony Application** repository! This is an open-source web-based telephony solution that allows you to make **voice calls**, **send SMS**, and integrate with various **telephony systems** through a simple web interface.
 
 The webphone is designed to be lightweight and customizable, ideal for businesses and individuals looking to integrate telephony functionality into their applications.
 
