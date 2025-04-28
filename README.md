@@ -1,2 +1,34 @@
 # telephony
 cloud telephony panel
+
+Welcome to the **Telephony WebPhone** repository! This is an open-source web-based telephony solution that allows you to make **voice calls**, **send SMS**, and integrate with various **telephony systems** through a simple web interface.
+
+The webphone is designed to be lightweight and customizable, ideal for businesses and individuals looking to integrate telephony functionality into their applications.
+
+---
+
+## Features
+- **Voice Calls**: Make and receive voice calls through your browser.
+- **SMS Integration**: Send SMS messages directly from the webphone interface.
+- **Real-Time Communication**: Utilize WebRTC for real-time communication.
+- **Multiple Platform Support**: Compatible with both desktop and mobile browsers.
+- **Secure Communication**: Encrypted calls and messages.
+  
+## Demo
+
+You can try out the demo of this WebPhone at [demo link here].
+
+---
+
+## Installation
+
+### Prerequisites
+Make sure you have the following installed on your machine:
+- **Node.js** (version 12 or later)
+- **npm** (node package manager)
+- **WebRTC support** (most modern browsers support WebRTC)
+
+### Steps to Install:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/telephony-webphone.git
